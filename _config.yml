@@ -1,9 +1,9 @@
 # Site settings
-title: My First Page
+title: Eisach's Page
 author:
   name: Eisach
   email: eisach.yambao@dhl.com
-description: "This is my first page"
+description: "Hope you enjoy!!!"
 
 # Build settings
 remote_theme: jekyll/minima
