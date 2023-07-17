@@ -14,10 +14,10 @@ It's not much, but it's home.
 
 ## Top 3 favorite foods:
 1. Adobo\
-   ![Adobo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/640px-Chicken_adobo.jpg)
+   >![Adobo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/640px-Chicken_adobo.jpg)
 
 2. Kare Kare\
-    ![Kare Kare](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Oxtail_kare-kare_1.JPG/640px-Oxtail_kare-kare_1.JPG)
+   >![Kare Kare](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Oxtail_kare-kare_1.JPG/640px-Oxtail_kare-kare_1.JPG)
    
 3. Caldereta\
-   ![Caldereta](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaldereta_2.jpg/640px-Kaldereta_2.jpg)
+   >![Caldereta](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaldereta_2.jpg/640px-Kaldereta_2.jpg)
