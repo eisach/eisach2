@@ -7,7 +7,7 @@ categories: training
 
 ## What have I been up to these years?
 
-October 2017 – Present
+October 2017 – Present\
 DHL Malaysia SDN BHD
 >Position: Application Support Analyst
 
