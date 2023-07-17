@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where I'm from
+title: Philippines
 tags: markdown example
 categories: training
 ---
