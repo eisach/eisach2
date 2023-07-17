@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second post
+title: My Interest
 tags: markdown example
 categories: training
 ---
