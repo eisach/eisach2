@@ -10,7 +10,7 @@ categories: training
 | --- | --- |
 | Height | 5'7 |
 | Email | eisach.yambao@dhl.com |
-| Interests | Watching Youtube |
+| Interests | Watching Youtube, Gym, Playing Games (mobile) |
 
 
 
