@@ -11,7 +11,8 @@ Born in the Philippines. Staying in Marikina City.\
 
 It's not much, but it's home.
 
-Top 3 favorite foods
+
+## Top 3 favorite foods:
 1. Adobo
    ![Adobo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/640px-Chicken_adobo.jpg)
 
