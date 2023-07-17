@@ -1,10 +1,13 @@
 ---
 layout: post
-title: My First Page
+title: About me
 tags: first markdown example
 categories: training
 ---
 
-This is my first post.
->
-Please tell me what you think.
+
+| Name | Eisach |
+| --- | --- | --- |
+| Height | 5'7 |
+| Email | eisach.yambao@dhl.com |
+| Interests | Watching Youtube |
