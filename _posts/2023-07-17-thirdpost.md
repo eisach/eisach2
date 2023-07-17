@@ -28,12 +28,12 @@ IBM Malaysia Regional Contact Centre (RCC)
 >Position: IT Helpdesk Coordinator
 
 January 2010 – November 2011\
->Acquire Asia Pacific
-Position: Technical Support Representative (Tier 1)
+Acquire Asia Pacific
+>Position: Technical Support Representative (Tier 1)
 
 July 2008 – January 2010\
->24/7 Customer Inc.
-Position: Technical Support Representative (Tier 2)
+24/7 Customer Inc.
+>Position: Technical Support Representative (Tier 2)
 
 March 2007 – July 2008\
 Teletech
