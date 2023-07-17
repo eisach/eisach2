@@ -3,7 +3,7 @@ layout: home
 ---
 
 --------------
-
+If you want something you never have, you must do something you've never done!
 --------------
 
 ## Welcome to my hompage!
