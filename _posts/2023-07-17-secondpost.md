@@ -7,7 +7,7 @@ categories: training
 
 ## What is there to know about me?
 
-![alt text is white cat](https://commons.wikimedia.org/wiki/File:Local_Gym_equipment.jpg)
+![alt text is gym equipment](https://upload.wikimedia.org/wikipedia/commons/a/aa/Local_Gym_equipment.jpg)
 
 I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
 
