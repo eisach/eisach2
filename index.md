@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-If you want something you never have, you must do something you've never done!
+
+[About](https://eisach.github.io/eisach2/training/2023/07/17/firstpost.html)
 --------------
 
 
