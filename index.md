@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+Horizontal rule:
+--------------
 
 ## Welcome to my hompage!
 
